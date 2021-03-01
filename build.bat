@@ -5,3 +5,4 @@ cmake -G "MinGW Makefiles" ../
 make
 clear
 .\Quicksort.exe
+pause
